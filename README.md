@@ -9,9 +9,9 @@ I would love the opportunity to work professionally with Python and continue to 
 
 ## Projects
 ### [`mini-wras-analysis`](blank-link)
-Data analysis and visualization for data from GRIMM MINI-WRAS 1.371.
+**Coming soon!** Data analysis and visualization for data from GRIMM MINI-WRAS 1.371.
 ### [`tello-talent`](blank-link)
-Using [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) in simple examples for Robomaster Tello Talent.
+**Coming soon!** Using [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) in simple examples for Robomaster Tello Talent.
 
 
 ## Contact Me
