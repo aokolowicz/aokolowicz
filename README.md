@@ -1,5 +1,5 @@
 # Hi, I'm Adrian 👋
-### Nanoaerosol researcher 👨‍🔬 with industrial experience 🏭 and an engineering background 🛠️.
+### Nanoaerosol researcher 👨‍🔬 with engineering background 🛠️ and industrial experience 🏭.
 I'm passionate about working with **Python** to explore data and solve complex problems. I am known as a **motivated team player**, understanding the significance of effective teamwork and collaboration in achieving complex goals. I am also passionate about **creating innovative solutions** and data-driven insights.
 I would love the opportunity to work professionally with Python and continue to grow in this field.
 
