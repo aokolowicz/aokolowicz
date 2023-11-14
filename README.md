@@ -8,7 +8,7 @@ I would love the opportunity to work professionally with Python and continue to 
 - 📊 Last scientific achievement: Measurement device based on Raspberry Pi Pico (MicroPython) and Adafruit's CircuitPython, [Article](https://rdcu.be/dp3Ss).
 
 ## Projects
-### [`mini-wras-analysis`](blank-link)
+### [`mini-wras-analysis`](https://github.com/aokolowicz/mini-wras-analysis)
 **Coming soon!** Data analysis and visualization for data from GRIMM MINI-WRAS 1.371.
 ### [`tello-talent`](blank-link)
 **Coming soon!** Using [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) in simple examples for Robomaster Tello Talent.
