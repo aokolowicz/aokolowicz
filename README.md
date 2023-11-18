@@ -5,7 +5,7 @@ I would love the opportunity to work professionally with Python and continue to 
 
 - 🔭 I'm currently working on a web application to manage monthly expenses: **Flask, HTML, CSS, Jinja2, SQLite, Bootstrap**.
 - 🌱 I’m currently continuing **Harvard's CS50 series**: [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2023/).
-- 📊 Last scientific achievement: Measurement device based on Raspberry Pi Pico (MicroPython) and Adafruit's CircuitPython, [Article](https://rdcu.be/dp3Ss).
+- 📊 In [this article](https://rdcu.be/dp3Ss) I share the culmination of over a year's dedicated work: measurement device based on Raspberry Pi Pico (**MicroPython**) and Adafruit's **CircuitPython**.
 
 ## Projects
 ### [`mini-wras-analysis`](https://github.com/aokolowicz/mini-wras-analysis)
