@@ -8,7 +8,7 @@ I would love the opportunity to work professionally with Python and continue to 
 
 ## Projects
 ### [`home-budget`](https://github.com/aokolowicz/home-budget)
-The Home Budget project is a web application designed to help users manage their expenses by keeping track of their spending habits.
+The Home Budget project is a web application designed to help users manage their expenses by keeping track of their spending habits. [Live Demo](https://juzew.pythonanywhere.com)
 ### [`mini-wras-analysis`](https://github.com/aokolowicz/mini-wras-analysis)
 Data analysis and visualization tool for GRIMM MINI-WRAS 1.371 data. **New features incoming!**
 ### [`tello-talent`](https://github.com/aokolowicz/tello-talent)
