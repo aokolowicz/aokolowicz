@@ -1,9 +1,9 @@
 # Hi, I'm Adrian 👋
 ###  Research Scientist and Data Analyst 👨‍🔬 with engineering background 🛠️ and industrial experience 🏭.
-I'm passionate about working with **Python** to explore data and solve complex problems. I am known as a **motivated team player**, understanding the significance of effective teamwork and collaboration in achieving complex goals. I am also passionate about **creating innovative solutions** and data-driven insights.
-I would love the opportunity to work professionally with Python and continue to grow in this field.
+I'm passionate about working with **Python** and **MS Excel** to explore data and solve complex problems. I am known as a **motivated team player**, understanding the significance of effective teamwork and collaboration in achieving complex goals. I am also passionate about **creating innovative solutions** and data-driven insights.
+By combining my experience and expertise with IT, I am determined to help industries make the most of their data, optimize their processes, and drive innovation.
 
-- 🌱 After the CS50x and CS50P, I am currently continuing **Harvard's CS50 courses**: [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2023/).
+- 🌱 After the [CS50x](https://cs50.harvard.edu/x/2024/) and [CS50P](https://cs50.harvard.edu/python/2022/), I continue improving my data analysis skills by doing [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
 - 📊 In [this article](https://doi.org/10.1007/s11051-023-05872-6) I share the culmination of over a year's dedicated work: measurement device based on Raspberry Pi Pico (**MicroPython**) and Adafruit's **CircuitPython**.
 
 ## Projects
