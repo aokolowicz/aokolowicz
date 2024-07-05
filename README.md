@@ -17,4 +17,4 @@ Using [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) and [keyboard](ht
 
 ## Contact Me
 - 💬 Ask me about: mountain biking 🚴‍♂️, endurance and interval training 💪, rock music 🎸, classic men's elegance 👔
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrianokolowicz/) or [ResearchGate](https://www.researchgate.net/profile/Adrian-Okolowicz).
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrianokolowicz/).
