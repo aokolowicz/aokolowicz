@@ -1,6 +1,6 @@
 # Hi, I'm Adrian 👋
 ###  Data Analyst with experience in both research 👨‍🔬 and industrial 🏭 settings.
-I graduated from Chemical and Process Engineering. I'm passionate about working with **Python**, **R**, **SQL**, and **MS Excel** to explore data and solve complex problems. I am known as a **motivated team player**, understanding the significance of effective teamwork and collaboration in achieving complex goals. I am also passionate about creating innovative solutions and providing **data-driven insights**.
+I graduated from Chemical and Process Engineering. I'm passionate about working with **Python**, **R**, **SQL**, and **MS Excel** to explore data and solve complex problems. I am known as a **motivated team player**, understanding the significance of effective teamwork and collaboration in achieving complex goals. I am also passionate about creating consumer-oriented business solutions and providing **data-driven insights**.
 By combining my experience and expertise with IT, I am determined to help industries make the most of their data, optimize their processes, and drive innovation.
 
 - 🌱 Recently completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)—a rigorous, hands-on program that covers the entire scope of the data analysis process. **See my case study analysis [here](https://github.com/aokolowicz/cyclistic-riders-analysis#cyclistic-bike-share-analyzing-riders-behavior-to-optimize-membership)!**
