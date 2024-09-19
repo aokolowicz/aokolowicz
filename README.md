@@ -5,7 +5,7 @@ By combining my experience and expertise with IT, I am determined to help indust
 
 - 🌱 Recently completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)—a rigorous, hands-on program that covers the entire scope of the data analysis process. **See my case study analysis [here](https://github.com/aokolowicz/cyclistic-riders-analysis#cyclistic-bike-share-analyzing-riders-behavior-to-optimize-membership)!**
 - 📚 Expanded my computer science and programming knowledge through Harvard's [CS50x](https://cs50.harvard.edu/x/2024/) and [CS50P](https://cs50.harvard.edu/python/2022/) courses.
-- 📊 In [this article](https://doi.org/10.1007/s11051-023-05872-6) I share the culmination of over a year's dedicated work: measurement device based on Raspberry Pi Pico (**MicroPython**) and Adafruit's **CircuitPython**.
+- 📊 **Check out my [article](https://doi.org/10.1007/s11051-023-05872-6)** about the nanoparticle detector I built as a critical business solution enhancing industry safety and risk awareness. Device based on Raspberry Pi Pico (**MicroPython**) and Adafruit's **CircuitPython**.
 - 💬 Ask me about: mountain biking 🚴‍♂️, endurance and interval training 💪, rock music 🎸, classic men's elegance 👔
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrianokolowicz/).
 
